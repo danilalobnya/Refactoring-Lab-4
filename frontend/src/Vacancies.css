@@ -1,0 +1,141 @@
+@font-face {
+  font-family: Bebas Neue;
+  src: url(./fonts/Bebas\ Neue/Bebas\ Neue\ Cyrillic.ttf);
+}
+
+
+.app {
+  position: relative;
+}
+
+
+.vacancies {
+  position: absolute;
+  width: 10%;
+  margin-left: 45%;
+  text-align: center;
+  font-family: Bebas Neue;
+  margin-top: 2%;
+  font-size: 50px;
+  color: white;
+}
+
+
+.vacanciesInput {
+  position: absolute;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 5%;
+  height: 60px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Bebas Neue;
+  background-color: black;
+  color: white;
+  border: 1px white;
+}
+
+
+.button {
+  position: absolute;
+  cursor: pointer;
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 34%;
+  height: 50px;
+  font-size: 30px;
+  font-family: Bebas Neue;
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+}
+
+.info {
+  position: absolute;
+  width: 10%;
+  margin-left: 45%;
+  margin-top: 20%;
+  font-size: 50px;
+  font-family: Bebas Neue;
+  text-align: center;
+  color: white;
+}
+
+.experience {
+  position: absolute;
+  text-align: center;
+  width: 20%;
+  margin-left: 20%;
+  font-size: 50px;
+  color: white;
+  font-family: Bebas Neue;
+  margin-top: 21%;
+}
+
+.experienceSelect {
+  cursor: pointer;
+  position: absolute;
+  width: 20%;
+  margin-left: 20%;
+  height: 60px;
+  font-size: 30px;
+  font-family: Bebas Neue;
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+  margin-top: 25%;
+}
+
+.schedule {
+  position: absolute;
+  text-align: center;
+  width: 20%;
+  margin-left: 60%;
+  font-size: 50px;
+  color: white;
+  font-family: Bebas Neue;
+  margin-top: 21%;
+}
+
+.scheduleSelect {
+  cursor: pointer;
+  position: absolute;
+  width: 20%;
+  margin-left: 60%;
+  height: 60px;
+  font-size: 30px;
+  font-family: Bebas Neue;
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+  margin-top: 25%;
+}
+
+.area {
+  position: absolute;
+  text-align: center;
+  width: 20%;
+  margin-left: 40%;
+  font-size: 50px;
+  color: white;
+  font-family: Bebas Neue;
+  margin-top: 11%;
+}
+
+.areaSelect {
+  cursor: pointer;
+  position: absolute;
+  width: 20%;
+  margin-left: 40%;
+  height: 60px;
+  font-size: 30px;
+  font-family: Bebas Neue;
+  text-align: center;
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+  margin-top: 15%;
+}
